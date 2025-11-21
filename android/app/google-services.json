@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333366121058",
+    "project_id": "todotemp-ezlkhd",
+    "storage_bucket": "todotemp-ezlkhd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333366121058:android:03147751fc8125822af73b",
+        "android_client_info": {
+          "package_name": "com.mycompany.entprojecttracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8iD3sGRRjX4HjCiXR15U8eH4L5Km9tWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
